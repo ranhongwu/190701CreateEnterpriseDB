@@ -494,6 +494,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\gislicence.ecp" />
     <None Include="Resources\open_32x32.png" />
   </ItemGroup>
   <ItemGroup>
